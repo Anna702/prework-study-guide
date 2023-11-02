@@ -4,15 +4,6 @@
 
 This web application was created as a first part of a Fronted Developmnent Bootcamp by a novice student to became familuar with HTML, CSS, Git and JavaScript.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
