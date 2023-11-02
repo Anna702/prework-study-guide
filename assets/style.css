@@ -11,7 +11,8 @@ footer {
   color: white;
 }
 
-#top {
+#top,
+h2 {
   text-align: center;
 }
 
